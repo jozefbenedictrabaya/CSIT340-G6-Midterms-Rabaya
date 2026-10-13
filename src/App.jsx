@@ -1,6 +1,5 @@
 import { useState } from "react";
 
-
 function App() {
   const [seats, setSeats] = useState(1);
   const [months, setMonths] = useState(1);
